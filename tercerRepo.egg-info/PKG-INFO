@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: tercerRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/Hitomiblood/tercerRepo
+Author: Miguel Santiago Gómez Suárez
+Author-email: hitomiblood@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
